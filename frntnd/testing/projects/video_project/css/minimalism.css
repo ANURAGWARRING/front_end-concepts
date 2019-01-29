@@ -1,0 +1,33 @@
+body{
+    height: 100%;
+    }
+
+.uppernavbar{
+    top: 0%;
+   left: 0%;
+    width: 100%;
+    height:30%;
+    position: fixed ;
+    z-index: 1;
+    background-color: red;
+}
+
+     
+video{
+    position: relative;
+    align-content: center;
+  top: 50%;
+   left: 50%; 
+     margin-left: -60%;
+    margin-top: -20%;
+    z-index: 2; 
+     }
+.maintext{
+    position: relative;
+    z-index: 3;
+    margin: 0px auto;
+    text-align: center;
+    }
+    
+   
+

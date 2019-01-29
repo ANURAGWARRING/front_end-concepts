@@ -1,0 +1,16 @@
+body{
+    background: url(../images/darth_lord.jpg)
+        no-repeat center center fixed;
+    background-size: cover ;
+} /* code for image to be central,topand bottom */
+h1{
+    color: #EA1646;
+    text-align: center;
+    border:3px solid #EA1646;
+    width:300px;
+    padding:20px;
+    margin:auto auto; /* can give in pixels also */
+    margin-top: 300px;
+    font-family: 'Righteous', cursive;
+    
+}   /* code for text alignment */

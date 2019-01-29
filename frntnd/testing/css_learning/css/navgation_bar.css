@@ -1,0 +1,31 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding:;
+    overflow: hidden;
+    background-color:#333 
+    
+}
+
+li{
+    float: left;
+    font-family: 'Suez One', serif;
+    }
+
+li a {
+    display:block;
+    color: orange;
+    text-align: center;
+    padding: 15px 18px;
+    text-decoration: none;
+    }
+li a:hover{
+    background-color: darkred;
+    }
+.righty{
+    float: right;
+}
+li a:active{
+    background-color: crimson;
+    }
+
